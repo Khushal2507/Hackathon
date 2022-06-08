@@ -9,6 +9,6 @@ From tensorflow.keras.callbacks we imported TensorBoard
 
 ## Future Prospects:
 Here are the few things, we are planning to add in future.
-1. Connect our machine lerning model with our web chat app.
+1. Connect our machine learning model with our web chat app.
 2. Add language translator.
 3. Add sign language learning data.
